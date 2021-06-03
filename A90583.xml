@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition of the citie of Westminster, and the parishes of Saint Clement Danes, and Saint Martins in the Fields: as it was carried from them by Sir Edward Warder, Doctor Castle, Doctor Fuller, and Doctor Duckson, and by them presented to his Sacred Majestie at Oxford. With His Majesties gracious answer concerning the said petition.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90583</idno><idno type="EEBO-CITATION">99872838</idno>
+  <idno type="VID">155670</idno>
+  <idno type="EEBO-PROQUEST">2240940625</idno>
+  
+            <idno type="STC">Wing P1786</idno>
+            <idno type="STC">Thomason E85_16</idno>
+            <idno type="STC">ESTC R5349</idno>
+            <idno type="PROQUEST">99872838</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872838e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90583)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155670)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E85[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition of the citie of Westminster, and the parishes of Saint Clement Danes, and Saint Martins in the Fields: as it was carried from them by Sir Edward Warder, Doctor Castle, Doctor Fuller, and Doctor Duckson, and by them presented to his Sacred Majestie at Oxford. With His Majesties gracious answer concerning the said petition.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I). aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Hudson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Ian. 18. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Westminster (London, England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155670:1"/>
+            <p>A PETITION Of the Citie of WESTMINSTER, And the Parishes OF Saint <hi>Clement Danes,</hi> AND Saint <hi>Martins</hi> in the Fields: AS It was carried from them by Sir <hi>Edward Warder,</hi> Doctor <hi>Castle,</hi> Doctor <hi>Fuller,</hi> and Doctor <hi>Duckson,</hi> and by them presented to his Sacred Majestie at <hi>Oxford.</hi>
+            </p>
+            <p>WITH His Majesties gracious Answer concerning the said PETITION.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Hudson, Ian.</hi> 18. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition_to_king">
+            <pb facs="tcp:155670:2"/>
+            <pb n="3" facs="tcp:155670:2"/>
+            <head type="sub">
+               <figure>
+                  <head>DOCTRINA PARIT VIRTUTEM</head>
+                  <figDesc>device of sword and scepter crossed upon an open book</figDesc>
+               </figure> To the Kings most Excellent Majestie.</head>
+            <head>The humble Petition of the City of <hi>West-minster,</hi> the Parishes of S. <hi>Clement Danes,</hi> and S. <hi>Martins</hi> in the Fields,</head>
+            <opener>
+               <dateline> As it was presented to His Majesty at <hi>Oxford,</hi>
+                  <date>
+                     <hi>Ian.</hi> 7. 1642.</date>
+               </dateline>
+            </opener>
+            <opener>May it please Your Excellent Maiesty,</opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE the Inhabitants of your ancient Citie of Westminster, sometimes the Regall Seat of your Ancestours of famous memorie, together with our neighbours, the Inhabitants of the populous Parishes of St. <hi>Martins</hi> in the Fields, and St. <hi>Clements Danes,</hi> much afflicted and greatly impoveri<g ref="char:EOLhyphen"/>shed by these intestine wars; but more especially by the rea<g ref="char:EOLhyphen"/>son of your Majesties so long absence from your royall Pa<g ref="char:EOLhyphen"/>lace at White-Hall, where wee were usually blest with the beames of your Majesties countenance, thought our selves engaged in dutie to your Majestie, and in charitie to our selves and families, to present with all humilitie and lowli<g ref="char:EOLhyphen"/>nesse of mind, our grievances, and with them our loyall de<g ref="char:EOLhyphen"/>sires to your Sacred Goodnesse, which wee know, and are assured is so full of tender pitie to us your obedient Subjects,
+<pb n="4" facs="tcp:155670:3"/> that your Majestie will lend a gracious eare to our com<g ref="char:EOLhyphen"/>plaints,. We are (may it please your Sacred Majestie) op<g ref="char:EOLhyphen"/>pressed with all the calamities that can be, greeved princi<g ref="char:EOLhyphen"/>pally for your Majesties so long sepa<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation from the Honou<g ref="char:EOLhyphen"/>rable your High Court of Parliament, the chiefe and most faithfull Councell appurtenant to our English Nation: We are above measure afflicted at the afflictions of our brethren, and have a fellow-feeling of their sufferings, who in the Countries round about us, groan under the heavie burden of a civill war, their houses plundered, their goods taken away, and their lives in daily danger. Nay, divers of our Countrey-men, Friends, and Allies (to our no small griefe and anguish of minde) having lost their lives in the fatall contentions, which have been frequent in these unnaturall wars. And though we in our persons have not yet felt any of these miseries, yet can we not be so foolishly secure, as to imagine we are proofe against all these thunder-bolts which hang over us. And moreover we do daily run behind hand, and are much impoverished in our estates, to the utter undo<g ref="char:EOLhyphen"/>ing almost of our families, by reason that through the dan<g ref="char:EOLhyphen"/>ger and calamitie of the times all traffique and commerce, both at home and abroad, is as it were expiring, and at the last gaspe, no man having any valuable vent for his commo<g ref="char:EOLhyphen"/>dities, to the utter ruine and decay of many honest and able housholders, who are enforced (without any in-come from their present estates) to maintaine themselves out of the whole stock; which still decreasing without any augmen<g ref="char:EOLhyphen"/>tation or supply, must at last (and in a very short space) be consumed and brought to nought. One of the principall oc<g ref="char:EOLhyphen"/>casions of this our detriment and losse, being the long and la<g ref="char:EOLhyphen"/>mented absence of Your royall person, and your Court, from this City; we of your City of Westminster, and the adjoin<g ref="char:EOLhyphen"/>ing Parishes of Saint <hi>M<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtins</hi> and Saint <hi>Clements,</hi> having our greatest entercourse of trade with your royall Court, by rea<g ref="char:EOLhyphen"/>son of our vicinitie to the same, and with the Families of such of the Nobility and Gentry as inhabited the Strand, and the
+<pb n="5" facs="tcp:155670:3"/> adjacent places: who having most of their dependence on your Majesty, and Your regall Court, have by reason of Your long absence from hence absented themselves. Divers o<g ref="char:EOLhyphen"/>thers also, by reason of these domestick tumults, being re<g ref="char:EOLhyphen"/>moved from their wonted habitations, into the Countrey.</p>
+            <p>Besides, it may please Your Majestie to take into Your Gracious consideration the destructive effects of a Civill war, and Your Highnesse long dis-junction and discontinu<g ref="char:EOLhyphen"/>ance from Your loyall and well affected Your honourable high Court of Parliament, assembled for the service and ad<g ref="char:EOLhyphen"/>vancement of Your Majesties affaires, which they have ever endevoured and promoted; and for the good of your people in generall, the peace and securitie of all Your Majesties do<g ref="char:EOLhyphen"/>minions, which have alwaies been the period and aime of this Your Parliaments intentions, as by their honourable and just proceedings are and have been daily manifested.</p>
+            <p>In Consideration of all these premises, and for the ho<g ref="char:EOLhyphen"/>nour of God, the maintenance and setling of Gods true Religion, now at many distractions in this Kingdome, for the quieting and appeasing of all these lamentable distracti<g ref="char:EOLhyphen"/>ons: and finally, for the happinesse of all your Majesties liege people, we your loyall and faithfull Subjects, found our selves ingaged in conscience, and doe most humbly beseech your Majesty to take into your Princely consideration these our vances, and tender them with the eye of your excellent compassion and pity. And since they have all derived them<g ref="char:EOLhyphen"/>selves from one head, namely, your Majesties absence from your high Court of Parliament, wee in all humility desire that your Majesty out of your inbred clemency to all your Subjects, deserting all Malignant Counsells to the contra<g ref="char:EOLhyphen"/>ry, would graciously vouchsafe to hearken to the advices of your High Court of Parliament, and in your royall wis<g ref="char:EOLhyphen"/>dome take some speedy course for an Accommodation of peace between your sacred Majesty and the honourable the High Court of Parliament; and so the God of heaven, the fountaine of peace, blesse your Majesty, as wee your humble Suppliants in all duty bound shall ever pray, to our lives end.</p>
+         </div>
+         <div type="response_to_petition">
+            <pb n="6" facs="tcp:155670:4"/>
+            <head>His MAjESTIES gracious <hi>Answer</hi> to the <hi>Petition</hi> aforesaid.</head>
+            <p>WEe have received your loyall Petition, and doe much rejoyce to finde your wishes so concurrent with the desires of your brethren of Our City of <hi>London,</hi> and the most considerable Cities and parts of Our Kingdome, in requesting Our Royall care and furtherance for the setling of a sud<g ref="char:EOLhyphen"/>den constant peace betwixt Our selfe and Our high Court of Parliament, We having as tender a resentment of the long and deplorable breach be<g ref="char:EOLhyphen"/>tween Us and them, as either you or any other of Our faithfull and obedient Subjects can possibly have: for the losses and damages which Our Sub<g ref="char:EOLhyphen"/>jects in generall have sustained, and your selves in particular have undergone by reason of these tumults and civill dissentions, Wee have had as great a con<g ref="char:EOLhyphen"/>sideration and sense of griefe for all your sufferings, as you had beene allyed to Us, as neere as Our owne children. Wee know very well, that in such times, when nothing but dissentions and the rumour of war is heard in Our borders, that all things which have beene produced and nourished by the continuance of a long and happy peace, must needs run the hazard of immediate ruine, and heartily wish that heaven had beene pleased not to have laid in Our time this
+<pb n="7" facs="tcp:155670:4"/> heavie scourge upon this Our Kingdom; but it was Our sins that hath pulled this rod of his vengeance upon this Our land, which We hope his mercy will suddenly, and in his good time avert from Us.</p>
+            <p>For Our owne parts, as Wee are by God and suc<g ref="char:EOLhyphen"/>cession placed in the Throne of this Kingdome, Wee have ever beene carefull to preserve and defend Our Subjects from all miseries or affliction that might fall on them, either to the prejudice of their Estates or persons, and so shall as long as God shall spare Us life ever continue, maintaining the Right and Progerty of the Subject equally with Our owne pre<g ref="char:EOLhyphen"/>rogative and dignity; and ever seeking the advance<g ref="char:EOLhyphen"/>ment of Gods true Religion and Worship through<g ref="char:EOLhyphen"/>out all Our Dominions.</p>
+            <p>For these dissentions betwixt Our Selfe and Par<g ref="char:EOLhyphen"/>liament, certainly Wee dare affirme they have not beene more afflicted at Our long absence from them, then We Our selfe have, that We are inforced to ab<g ref="char:EOLhyphen"/>sent Our selfe from Our Palace at <hi>White-hall,</hi> which We have alwayes esteemed as Our best loved and ca<g ref="char:EOLhyphen"/>pitall residence. But mis-interpretations betwixt Us, and mis-conceits of both our meanings have occasi<g ref="char:EOLhyphen"/>oned this difference, which We shall as much as is in Our power, hereafter strive to suppresse and t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke away; and then We doubt not, when they shall right<g ref="char:EOLhyphen"/>ly understand Us and We them, but these dissenti<g ref="char:EOLhyphen"/>ons will suddenly vanish, and leave no remembrance behinde them: For Our selfe, Wee doe protest to you, that could Wee with the safety of Our affaires fulfill that part of your Petition wherein you intreat Our return to Our Palace &amp; Parliament, We should
+<pb n="8" facs="tcp:155670:5"/> performe it without any regret, as willingly as Wee belive you desire it heartily, but as yet Wee are im<g ref="char:EOLhyphen"/>possibilited from putting those resolutions in act, through the urgency and importance of Our present businesse, but that will not last so long, but We shall be ablein a short time in that also to accomplish your desires. But whereas you Petition Us in Our royall care to take such speedy order for Our accomodation of peace between Our self &amp; Our high Court of Par<g ref="char:EOLhyphen"/>liament, in that believe Us, Our endevour shall be no whit wanting, We shall with as much zeale and wil<g ref="char:EOLhyphen"/>lingnesse strive to perfect an atonement of all diffe<g ref="char:EOLhyphen"/>rences betwixt Us, as Wee shall desire of heaven to blesse Us with any earthly happinesse; amongst all which We account the peace of Our Kingdome, and prosperity of Our people the chiefe; and since that can no way be effected, but by a quick reconciliation between Us and Our high Court of Parliament, none We hope is so uncharitable to believe that We shall not further the compleating such a reconciliation with all the power We have: which Wee promise you We will do, being furnished with that good opi<g ref="char:EOLhyphen"/>nion of Our Parliaments loyalty and affection to Us their Soveraigne, that they will meet Our royall in<g ref="char:EOLhyphen"/>tentions halfe way for the compassing of peace, and be as ready to imbrace Our just Propositions as We shall to listen to and grant theirs. And this you may confidently credit, is Our royall Resolution, which no malignant or sinister counsell shall ever alter Us from.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
